@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mukulsunda
-- 👀 I’m interested in robotics and AI specialy in drones
+- 👀 I’m interested in robotics and AI specially in drones
 - 🌱 I’m currently pursuing Btech(CSE)
 - 💞️ I’m looking to collaborate on Drone delivery systems
 - 📫 Write me a mail on mukulsunda70@gmail.com
